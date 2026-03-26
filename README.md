@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BenjMy/geophysics-python-course/HEAD)
 
 Welcome to the Geophysics with Python course! This comprehensive course teaches geophysical data analysis using resipy (resistivity) and emagpy (electromagnetic) Python packages.
 
